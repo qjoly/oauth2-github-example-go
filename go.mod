@@ -1,10 +1,10 @@
 module github.com/qjoly/oauth2-github-example-go
 
-go 1.23.3
+go 1.25.0
 
 require (
 	github.com/coreos/go-oidc/v3 v3.14.1
-	golang.org/x/oauth2 v0.30.0
+	golang.org/x/oauth2 v0.36.0
 )
 
 require (
