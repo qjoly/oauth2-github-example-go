@@ -1,6 +1,6 @@
 module github.com/qjoly/oauth2-github-example-go
 
-go 1.23.3
+go 1.24.0
 
 require (
 	github.com/coreos/go-oidc/v3 v3.14.1
@@ -8,6 +8,6 @@ require (
 )
 
 require (
-	github.com/go-jose/go-jose/v4 v4.0.5 // indirect
+	github.com/go-jose/go-jose/v4 v4.1.4 // indirect
 	golang.org/x/crypto v0.36.0 // indirect
 )
